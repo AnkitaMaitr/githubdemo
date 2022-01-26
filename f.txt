@@ -1,2 +1,3 @@
 this is a line written in local repo
 this is a line written in remote repo (github)
+editing for fetch
